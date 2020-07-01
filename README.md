@@ -1,4 +1,4 @@
-# Datasets from Homan Lab
+# Data used for Population Level Label Distribution Learning Experiments
 
 # Citations for Jobs Dataset
 
