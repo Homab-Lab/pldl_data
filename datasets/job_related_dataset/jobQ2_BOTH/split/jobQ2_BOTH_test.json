@@ -1,0 +1,3757 @@
+{
+    "data": [
+        {
+            "message_id": "453584695612039168", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "465329455662399488", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "474451958196338688", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "394907445795254272", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "464935608016965632", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 2, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "461334884305620992", 
+            "labels": {
+                "employed": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "466599546156773376", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 8, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "595908838097846273", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 6, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "468125169035509761", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 3, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "530404432119607297", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "455364970260492289", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 4, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "537114933167915008", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "495477310766985216", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 1, 
+                "not_employed": 8
+            }
+        }, 
+        {
+            "message_id": "397035961617752064", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "413649849180246017", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 2, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "388041499679948800", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 3, 
+                "not_jobrelated": 2, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "532319165411893248", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "509190968890126336", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "458773429404336128", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "468074331105677312", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "530399249650171905", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "366028526295580673", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "407183826176442368", 
+            "labels": {
+                "employed": 7, 
+                "not_in_labor_force": 1, 
+                "unclear": 2
+            }
+        }, 
+        {
+            "message_id": "474207947447627776", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "495048663425884160", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "574011298738008064", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "504633491381043200", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "369113770427035648", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "452057115444908033", 
+            "labels": {
+                "not_jobrelated": 10
+            }
+        }, 
+        {
+            "message_id": "364818727260270592", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "459490895620866049", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "479962330667962368", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "509412360344584192", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "610410680500527104", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 4, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "561955118330163201", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "508714478914248704", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "456950055312715776", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 1, 
+                "not_employed": 6
+            }
+        }, 
+        {
+            "message_id": "516948402488475649", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "632960795102609408", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 4, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "392207741810659328", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "531275041145888768", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 1, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "518977614137290752", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "488467111552225280", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "460941465301295104", 
+            "labels": {
+                "unclear": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "515861821690249217", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "461880403935395842", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 1, 
+                "not_jobrelated": 4, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "363004760955174912", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "512596818761646081", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "625047755258503168", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 1, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "472058690435289090", 
+            "labels": {
+                "employed": 3, 
+                "not_jobrelated": 6, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "451389887573655553", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 2, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "533537692173492224", 
+            "labels": {
+                "employed": 7, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "443935988864126976", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 1, 
+                "not_jobrelated": 5, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "469089246985216000", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "578963461541081088", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "565832765829292033", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "574053304705150976", 
+            "labels": {
+                "employed": 3, 
+                "not_in_labor_force": 1, 
+                "unclear": 4, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "458025313419952128", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "459504929565331456", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 8, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "394493106428448768", 
+            "labels": {
+                "employed": 5, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "455959343234842624", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "428388145906716673", 
+            "labels": {
+                "employed": 2, 
+                "not_in_labor_force": 1, 
+                "unclear": 3, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "553107969542750208", 
+            "labels": {
+                "employed": 3, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 3, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "516559233224290304", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 1, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "391368793903353856", 
+            "labels": {
+                "employed": 5, 
+                "not_in_labor_force": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "495392637772644352", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 4
+            }
+        }, 
+        {
+            "message_id": "395406747285741568", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "574874280455880704", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "510425389882413057", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 3, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "568569697505050624", 
+            "labels": {
+                "employed": 3, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "626850011826028545", 
+            "labels": {
+                "employed": 4, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "551224477116542976", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "392364407747280896", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 2
+            }
+        }, 
+        {
+            "message_id": "536570355402702849", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "560565679875584000", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "532893249443495936", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 3
+            }
+        }, 
+        {
+            "message_id": "400417031331532800", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "536939460152537088", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "368540954438807552", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 2, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "397031595057504258", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 2
+            }
+        }, 
+        {
+            "message_id": "637007431344779265", 
+            "labels": {
+                "unclear": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "447824336104468480", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "435196837075898368", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "435793780352897025", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 2, 
+                "not_employed": 5
+            }
+        }, 
+        {
+            "message_id": "402317723016761345", 
+            "labels": {
+                "employed": 1, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "460764458806411264", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "443551140647403521", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 3, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "522747693240971265", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 6, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "509099469892517888", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 3, 
+                "not_jobrelated": 2, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "443219202623561729", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "376724554741075968", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "486920512309047297", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "386215110668075009", 
+            "labels": {
+                "employed": 4, 
+                "not_in_labor_force": 1, 
+                "unclear": 4, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "402138416403337216", 
+            "labels": {
+                "employed": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "388681630246006784", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "449039856799191040", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "373895008136732673", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "595010003427315712", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "414131094754447360", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 2, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "430032103271833601", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 2, 
+                "not_jobrelated": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "493474494065831939", 
+            "labels": {
+                "employed": 4, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "462266334165073920", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "469310354535628801", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "510832905812455424", 
+            "labels": {
+                "employed": 2, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 2, 
+                "not_employed": 4
+            }
+        }, 
+        {
+            "message_id": "461464510696394753", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "381612288668884992", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 4, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "530356317718712321", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "462665696069967872", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "559026651091435521", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "572074229476298752", 
+            "labels": {
+                "employed": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "538348796271665153", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 1, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "511383347135016961", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "437065983774457858", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 6, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "446062947559686144", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "363394049383727104", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "397933421865222144", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "485816430177570816", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 3, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "515400754136637440", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "546242166016970753", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 1, 
+                "not_jobrelated": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "393279185042415616", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "498332137536634880", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "379662989382922240", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "577108642782191616", 
+            "labels": {
+                "employed": 2, 
+                "not_jobrelated": 7, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "414832641687707648", 
+            "labels": {
+                "not_in_labor_force": 2, 
+                "not_jobrelated": 1, 
+                "not_employed": 7
+            }
+        }, 
+        {
+            "message_id": "481489847069454336", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "374873207041712128", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "494275641295261697", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "547762437173571584", 
+            "labels": {
+                "employed": 10, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "589936194655490049", 
+            "labels": {
+                "employed": 5, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "402480221829361665", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "593471405871726592", 
+            "labels": {
+                "employed": 5, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "492112747703070720", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "539484542932123649", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "376560135155765248", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 2, 
+                "not_jobrelated": 4, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "551963789302960128", 
+            "labels": {
+                "employed": 12
+            }
+        }, 
+        {
+            "message_id": "478006796628795393", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 2, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "577521105700814848", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "393819173173743616", 
+            "labels": {
+                "employed": 4, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "416703433173766145", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 4, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "543441797440339968", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 2
+            }
+        }, 
+        {
+            "message_id": "577591957423329280", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 5, 
+                "not_jobrelated": 1, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "416044777805991937", 
+            "labels": {
+                "employed": 7, 
+                "not_in_labor_force": 1, 
+                "unclear": 2
+            }
+        }, 
+        {
+            "message_id": "519542022160797696", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 4, 
+                "not_employed": 5
+            }
+        }, 
+        {
+            "message_id": "643054469555585024", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "483142992912334848", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "417818225876172800", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 1, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "591333617533521920", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 3, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "504088479396290561", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "479484544962547712", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "472231159510757376", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "517464771692863488", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 4, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "525280529445580801", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 4, 
+                "not_jobrelated": 1, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "459298431157411840", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "541800178668568576", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "427278594109210624", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "391301382462275584", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "463543491008921600", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "632693711013548032", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 2, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "459145048672985088", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "552592022104969216", 
+            "labels": {
+                "unclear": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "552686854697664513", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "519541389680738304", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "439352443390812160", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "415969904026988545", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 4
+            }
+        }, 
+        {
+            "message_id": "593372914130538496", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 2, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "460972225026600960", 
+            "labels": {
+                "employed": 8, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "490366327781986306", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "462634118938112000", 
+            "labels": {
+                "employed": 3, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "409487318077435904", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "382850317794435072", 
+            "labels": {
+                "employed": 4, 
+                "not_in_labor_force": 1, 
+                "unclear": 4, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "538438580566515712", 
+            "labels": {
+                "unclear": 1, 
+                "not_jobrelated": 8, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "641098220945469440", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "519376698568372224", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 7, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "401206178346065922", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 3, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "579850806008143872", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "451828746979667968", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "396755877287714816", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "379736933829586944", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "unclear": 3, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "451583407319838720", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "364409441304580097", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "516958892807708674", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 5, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "473871700912644096", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 3, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "519513170512478209", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "590263437734895616", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "490300804125847553", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 1, 
+                "not_employed": 6
+            }
+        }, 
+        {
+            "message_id": "379748755370946560", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "468942740873805824", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "384288571995066369", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "453887747259105280", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "365094080805474304", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "365517685318103040", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "499938305933197312", 
+            "labels": {
+                "employed": 7, 
+                "not_in_labor_force": 1, 
+                "unclear": 2
+            }
+        }, 
+        {
+            "message_id": "559773568129826817", 
+            "labels": {
+                "unclear": 1, 
+                "not_jobrelated": 8, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "628985418999037953", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "409347038665777152", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "559470959951097858", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "592699131254218752", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 4, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "633617996280233984", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 3, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "455696646500651009", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "389487298493960192", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "466609577833033728", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "526403569000644608", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 2, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "519883104857894912", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "603658588255592450", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "437350799916924928", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "545496690456014848", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "439986846647721984", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "449316878213607424", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "633353325551951876", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 3, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "444314832238428160", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "395226761002487809", 
+            "labels": {
+                "employed": 3, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "518151972332253184", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 6, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "448232683035172864", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 2, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "394280972713070592", 
+            "labels": {
+                "employed": 5, 
+                "not_in_labor_force": 1, 
+                "unclear": 3, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "376441882341289984", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "464816418920595456", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "470230002370621441", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 1, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "549977221172318210", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "640606457533198336", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "446055470969942016", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 2, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "398438129364787200", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "406245161002606592", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "428222591451811840", 
+            "labels": {
+                "employed": 6, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "497488023798693891", 
+            "labels": {
+                "employed": 7, 
+                "not_in_labor_force": 2, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "464825491485392896", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "549947930757459968", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "555762605357563904", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 4, 
+                "not_employed": 4
+            }
+        }, 
+        {
+            "message_id": "424631481852362752", 
+            "labels": {
+                "employed": 5, 
+                "not_in_labor_force": 1, 
+                "unclear": 3, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "572452213232181249", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "466312812214898689", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "596744890106650624", 
+            "labels": {
+                "unclear": 3, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "460174985399898112", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "440355822774677504", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "482901310555955200", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "461622509335740417", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "362867520060923906", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "397401037428236288", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "437498120617078784", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 2
+            }
+        }, 
+        {
+            "message_id": "638132601375588352", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "568569282499612672", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "533729386324041728", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "576422195230031872", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 2, 
+                "not_jobrelated": 1, 
+                "not_employed": 5
+            }
+        }, 
+        {
+            "message_id": "383556147980275712", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "536568212448886785", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "377600553779752960", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 6, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "362415423825776640", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 4, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "528940021722923008", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "447800044062650368", 
+            "labels": {
+                "employed": 4, 
+                "not_in_labor_force": 1, 
+                "unclear": 2, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "464001879056199680", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "373874644002299904", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "482057476159078400", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "531578056553816064", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "413484064696721409", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 1, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "522199263145504768", 
+            "labels": {
+                "employed": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "455991184142635008", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "471251044719403008", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "441640427775881217", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "483448198539665409", 
+            "labels": {
+                "employed": 6, 
+                "not_jobrelated": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "450431820933632001", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "415904598302273536", 
+            "labels": {
+                "unclear": 1, 
+                "not_jobrelated": 8, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "517187892117241857", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "438413041479069696", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "574747916469977089", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 5, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "553104220220829697", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "517475631161176064", 
+            "labels": {
+                "unclear": 2, 
+                "not_jobrelated": 7, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "554006782440648704", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "462066171861544960", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "604439716369473536", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "388463451456409600", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "548874853450018816", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 3
+            }
+        }, 
+        {
+            "message_id": "639531486086066176", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "449376497368055808", 
+            "labels": {
+                "employed": 5, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "446063116594315264", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 3, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "403131736550555648", 
+            "labels": {
+                "unclear": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "454050440905515011", 
+            "labels": {
+                "unclear": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "555394847159635969", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "574701582517944320", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "642331402537730048", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "477888509508722688", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "466282011049869312", 
+            "labels": {
+                "not_jobrelated": 10
+            }
+        }, 
+        {
+            "message_id": "524392603983568897", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "598294441447858176", 
+            "labels": {
+                "unclear": 1, 
+                "not_jobrelated": 8, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "462943690898825216", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "371460238870073344", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "370273789634179072", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 4, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "396434504060907520", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 3, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "372720729818951680", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "416247773030129664", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "466413949752070144", 
+            "labels": {
+                "employed": 3, 
+                "not_in_labor_force": 1, 
+                "unclear": 3, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "503941768724119553", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 2, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "365765899426336768", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "384113860325953536", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 3, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "577522440022147073", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "592709725483044865", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "634342110473396224", 
+            "labels": {
+                "employed": 2, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "386213975894921216", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 5, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "439077063795179520", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "491726555656503296", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 2
+            }
+        }, 
+        {
+            "message_id": "516805372846567424", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "404668357468639232", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "373748776390758400", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "451011096636575744", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "517850054103928832", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "593465736745623552", 
+            "labels": {
+                "unclear": 5, 
+                "not_jobrelated": 2, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "431602803115851776", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 3, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "444852393671663616", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "413787848907972608", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "400055501305946112", 
+            "labels": {
+                "employed": 3, 
+                "not_in_labor_force": 2, 
+                "unclear": 5
+            }
+        }, 
+        {
+            "message_id": "598162096837271553", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "587079780442513408", 
+            "labels": {
+                "employed": 6, 
+                "not_jobrelated": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "586598769547968512", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "460231003945328640", 
+            "labels": {
+                "employed": 1, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "407154965996896256", 
+            "labels": {
+                "employed": 2, 
+                "not_employed": 8
+            }
+        }, 
+        {
+            "message_id": "521509299391303680", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "372811094861312000", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "430860607609253888", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 2, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "373968349895860224", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "379734371650916352", 
+            "labels": {
+                "employed": 6, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "628872252453466112", 
+            "labels": {
+                "employed": 4, 
+                "not_in_labor_force": 1, 
+                "unclear": 3, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "416593420434821120", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "506198890950172673", 
+            "labels": {
+                "employed": 2, 
+                "not_employed": 8
+            }
+        }, 
+        {
+            "message_id": "576103059765358592", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "473101744910520321", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "364876365247422465", 
+            "labels": {
+                "unclear": 3, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "542398252239552512", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "448162779498029056", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "369084910306226177", 
+            "labels": {
+                "unclear": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "602060355943141376", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "440666202814160896", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 3, 
+                "not_employed": 5
+            }
+        }, 
+        {
+            "message_id": "459159702572896256", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "452908791164854272", 
+            "labels": {
+                "employed": 1, 
+                "not_in_labor_force": 1, 
+                "unclear": 6, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "408936572021903360", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 3, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "474008086626050053", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "610418070641901568", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 6, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "518924756394196992", 
+            "labels": {
+                "employed": 8, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "416790234907410432", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "496251377216421888", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "572472671977545728", 
+            "labels": {
+                "employed": 7, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "404336987395874816", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "518462266279481344", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "561711844646473729", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "395946872671858688", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "414527394557755392", 
+            "labels": {
+                "unclear": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "486705564177932288", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "536589526769360897", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "438701624559947776", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 2, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "372719108930166784", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "571343678595338240", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 4, 
+                "not_jobrelated": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "469626549512466432", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 2, 
+                "not_jobrelated": 3, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "413745007104106496", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 3, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "516957247864586240", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "518083249915314176", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "407297307713871872", 
+            "labels": {
+                "unclear": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "507621818685857794", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 2, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "443992217901076480", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 3, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "573910392109428736", 
+            "labels": {
+                "not_jobrelated": 10
+            }
+        }, 
+        {
+            "message_id": "575634544977649664", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "552644668740345858", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "413354279689129984", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 8, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "523488205644251136", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "546902732612050945", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "584418476200239104", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "576428249472983040", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 2, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "412863819854409728", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "543304712892981248", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "386741284200652800", 
+            "labels": {
+                "employed": 10, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "441740990513045504", 
+            "labels": {
+                "employed": 8, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "571185993069531136", 
+            "labels": {
+                "employed": 1, 
+                "not_in_labor_force": 2, 
+                "unclear": 3, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "452994009431281665", 
+            "labels": {
+                "unclear": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "530490083859001346", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "363866543706210305", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "389060495913000960", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "584799368252891136", 
+            "labels": {
+                "employed": 10, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "457117120187613184", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "443557102586322944", 
+            "labels": {
+                "employed": 3, 
+                "not_jobrelated": 1, 
+                "not_employed": 6
+            }
+        }, 
+        {
+            "message_id": "398171604980879360", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "523550441272279040", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 1, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "595973938062217216", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "446503409878065152", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "595286296479817731", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "565134876807274497", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 2
+            }
+        }, 
+        {
+            "message_id": "587420978256412672", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 5, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "460092580416749568", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "602694319800193024", 
+            "labels": {
+                "employed": 3, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "504709859116609536", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 2, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "575666979345952768", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 5, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "534770905214648320", 
+            "labels": {
+                "employed": 5, 
+                "unclear": 5
+            }
+        }, 
+        {
+            "message_id": "578897090375364609", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "455076122091220992", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "401835352479916032", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "441953591612698624", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "519651745371156481", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 2, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "514621657118691328", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "499957035199639553", 
+            "labels": {
+                "employed": 7, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "405846001246040064", 
+            "labels": {
+                "employed": 10, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "489787801190559744", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "393967301059674112", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 3, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "415583667898298368", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 3, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "404118869230780416", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "455546666993463297", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "393211555640537088", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "491776823978500096", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "364417946040279043", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 7, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "368803310603497473", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "431398613487337473", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "367651511544713216", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "492832529242943488", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 5, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "629028311801458688", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "369164260133195776", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "632704969037246464", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "396356527948582913", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "450527072193376256", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "572846220529541120", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 5, 
+                "not_jobrelated": 1, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "520371089914859522", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "476001142670131201", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 3, 
+                "not_employed": 5
+            }
+        }, 
+        {
+            "message_id": "376062523931631617", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "572134818571542529", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "562461084058009600", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "507171737050832897", 
+            "labels": {
+                "employed": 2, 
+                "not_in_labor_force": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "398842076408086528", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 4, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "577480997727522817", 
+            "labels": {
+                "employed": 1, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "389434383368593408", 
+            "labels": {
+                "employed": 7, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "564226471234134017", 
+            "labels": {
+                "employed": 2, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "377756599622041600", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "516781394685853697", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 2, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "383223660997509120", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "369406970354094080", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 1, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "393450022580133888", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "461242147979919361", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "364111167095980034", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "404266563626225664", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 2, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "443772900769030144", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "634341401170460672", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 3, 
+                "not_jobrelated": 4
+            }
+        }, 
+        {
+            "message_id": "365613286403747841", 
+            "labels": {
+                "not_jobrelated": 10, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "390865390760640512", 
+            "labels": {
+                "unclear": 2, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "518990318604386304", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "392710722968248320", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 6, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "628945387097837568", 
+            "labels": {
+                "employed": 3, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "632697632964669440", 
+            "labels": {
+                "not_in_labor_force": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 6, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "521416765168189442", 
+            "labels": {
+                "not_jobrelated": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "637277199456956416", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "462966576514625537", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "542879444328009728", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "593474882094145536", 
+            "labels": {
+                "employed": 3, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "642422403671437312", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "387671708523442176", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "500627741956669441", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "425061486147297280", 
+            "labels": {
+                "employed": 4, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "523273797110362112", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "588033319754924032", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 2, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "378173635087040512", 
+            "labels": {
+                "employed": 4, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "467401177437851649", 
+            "labels": {
+                "employed": 9, 
+                "not_in_labor_force": 1
+            }
+        }, 
+        {
+            "message_id": "491791508442341378", 
+            "labels": {
+                "employed": 1, 
+                "not_jobrelated": 1, 
+                "not_employed": 8
+            }
+        }, 
+        {
+            "message_id": "517982898654547968", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "391923580994617344", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "495708570663784449", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 1, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "460141526451253249", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "368955505441382400", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "494656161145425921", 
+            "labels": {
+                "employed": 6, 
+                "not_in_labor_force": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "454585827176480768", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "448908101144432641", 
+            "labels": {
+                "employed": 4, 
+                "not_in_labor_force": 1, 
+                "unclear": 3, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "393079371042271232", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_employed": 7
+            }
+        }, 
+        {
+            "message_id": "518237301584171008", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "522938965440344064", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "438305115099762689", 
+            "labels": {
+                "unclear": 1, 
+                "not_jobrelated": 9
+            }
+        }, 
+        {
+            "message_id": "494755664267206658", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "397195695813169152", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 2, 
+                "not_jobrelated": 1, 
+                "not_employed": 6
+            }
+        }, 
+        {
+            "message_id": "368867370556608512", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 1, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "638278714393001984", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "575738828620754944", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 7, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "439240265237549056", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 4, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "443819245562908672", 
+            "labels": {
+                "employed": 6, 
+                "not_in_labor_force": 1, 
+                "not_employed": 3
+            }
+        }, 
+        {
+            "message_id": "463768382769082368", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "372507161278308352", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 1, 
+                "not_jobrelated": 8
+            }
+        }, 
+        {
+            "message_id": "552481189811200005", 
+            "labels": {
+                "employed": 4, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "450986653721436160", 
+            "labels": {
+                "employed": 7, 
+                "unclear": 1, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "472844979761868800", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "402139689639215104", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "634057836419485700", 
+            "labels": {
+                "employed": 4, 
+                "unclear": 1, 
+                "not_jobrelated": 5
+            }
+        }, 
+        {
+            "message_id": "361860171749785602", 
+            "labels": {
+                "employed": 11
+            }
+        }, 
+        {
+            "message_id": "445232432636129280", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "531551748436279296", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "520517947228692480", 
+            "labels": {
+                "employed": 8, 
+                "not_in_labor_force": 1, 
+                "not_jobrelated": 1
+            }
+        }, 
+        {
+            "message_id": "403209979366084608", 
+            "labels": {
+                "employed": 7, 
+                "not_in_labor_force": 1, 
+                "not_employed": 2
+            }
+        }, 
+        {
+            "message_id": "472846336686321665", 
+            "labels": {
+                "employed": 6, 
+                "unclear": 1, 
+                "not_jobrelated": 3
+            }
+        }, 
+        {
+            "message_id": "507610337042903040", 
+            "labels": {
+                "employed": 3, 
+                "unclear": 4, 
+                "not_jobrelated": 2, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "369112713101725696", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "548129322234806272", 
+            "labels": {
+                "employed": 10, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "403534643984474114", 
+            "labels": {
+                "employed": 9, 
+                "unclear": 1
+            }
+        }, 
+        {
+            "message_id": "408873449311195136", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "453311032232931328", 
+            "labels": {
+                "employed": 1, 
+                "unclear": 4, 
+                "not_employed": 5
+            }
+        }, 
+        {
+            "message_id": "393083754270687232", 
+            "labels": {
+                "employed": 10
+            }
+        }, 
+        {
+            "message_id": "489929055689773057", 
+            "labels": {
+                "unclear": 4, 
+                "not_jobrelated": 6
+            }
+        }, 
+        {
+            "message_id": "369484980121911297", 
+            "labels": {
+                "employed": 9, 
+                "not_employed": 1
+            }
+        }, 
+        {
+            "message_id": "473144230194733056", 
+            "labels": {
+                "employed": 8, 
+                "unclear": 2
+            }
+        }, 
+        {
+            "message_id": "370888484422447104", 
+            "labels": {
+                "employed": 8, 
+                "not_jobrelated": 2
+            }
+        }, 
+        {
+            "message_id": "474312684234891267", 
+            "labels": {
+                "employed": 3, 
+                "not_jobrelated": 1, 
+                "not_employed": 6
+            }
+        }, 
+        {
+            "message_id": "588020932578562049", 
+            "labels": {
+                "employed": 2, 
+                "unclear": 1, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "634440937163218944", 
+            "labels": {
+                "unclear": 3, 
+                "not_jobrelated": 7
+            }
+        }, 
+        {
+            "message_id": "428386576079392768", 
+            "labels": {
+                "employed": 9, 
+                "not_jobrelated": 1
+            }
+        }
+    ], 
+    "dictionary": [
+        "employed", 
+        "not_employed", 
+        "not_in_labor_force", 
+        "unclear", 
+        "not_jobrelated"
+    ]
+}
