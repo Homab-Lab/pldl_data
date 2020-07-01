@@ -1,4 +1,4 @@
-# Data used for Population Level Label Distribution Learning Experiments. 
+# Data used for Population Level Label Distribution Learning Experiments
 
 # Citations for Jobs Dataset
 
