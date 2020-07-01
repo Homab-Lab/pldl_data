@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Datasets from Homan Lab
 
 # Citations for Jobs Dataset
@@ -31,3 +32,6 @@ url = {http://arxiv.org/abs/1701.08796},
 year = {2017}
 }
 ```
+=======
+# Data used for Population Level Label Distribution Learning Experiments. 
+>>>>>>> parent of 9717f54... Update README.md
