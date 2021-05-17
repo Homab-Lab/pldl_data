@@ -1,0 +1,3 @@
+[submodule "datasets/facebook_dataset/original_repo"]
+	path = datasets/facebook_dataset/original_repo
+	url = https://github.com/minimaxir/interactive-facebook-reactions.git
