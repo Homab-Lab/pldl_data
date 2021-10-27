@@ -52,19 +52,3 @@ The datasets were used to evaluate PLDL discussed in these papers.
     pages = "1044--1053",
 }
 ```
-
-# Citation for Suicide Related Dataset
-
-```
-@InProceedings{Liu2017WSDM,
-    author = {Liu, Tong  and Cheng, Qijin and Homan, Christopher  and Silenzio, Vincent},
-    title = {Learning from Various Labeling Strategies for Suicide-Related Messages on Social Media: An Experimental Study.},
-    booktitle = {The workshop on Mining Online Health Reports of the 10th ACM Conference on Web Search and Data Mining},
-    month = {February},
-    year = {2017},
-    address = {Cambridge, UK},
-    url = {https://arxiv.org/pdf/1701.08796.pdf}
-    archivePrefix = {arXiv},
-    eprint = {1701.08796},
-}
-```
