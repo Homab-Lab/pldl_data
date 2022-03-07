@@ -35,7 +35,34 @@ The datasets were used to evaluate PLDL discussed in these papers.
 }
 ```
 
-# Citations for Jobs Dataset
+# Jobs Dataset
+
+Jobs dataset is a set of Tweets that are job related. The dataset is annotated by annotators from Amazon MTurk and Figure8 (now Appen). The dataset consists of 2,000 tweets and each is annotated by five annotators from each platform. 
+
+### Folder Structure
+
+````
+datasets/
+└── job_related_dataset/
+    └── jobQ1_BOTH/
+        ├── jobQ1_BOTH_annotations.json
+        ├── jobQ1_BOTH.json
+        └── split/
+            ├── jobQ1_BOTH_train.json
+            ├── jobQ1_BOTH_test.json
+            └── jobQ1_BOTH_dev.json
+````
+
+This is the structure for JobQ1 (the structure is the same for JobQ2 and JobQ3). The `jobQ1_BOTH_annotations.json` contains annotator level labels for the entire dataset (all train, dev, and test splits combined). Each row in this file represents contains;
+
+* Message ID
+* Label choice
+* Annotator ID
+* Platform (F8 or MT)
+
+`jobQ1_BOTH.json` contains compressed labels for each data item, similar structure to `jobQ1_BOTH_annotations.json` but labels are compressed per item. 
+
+### Citation
 
 ```
 
